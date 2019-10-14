@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>QQ图片20191014191632.png</file>
+    <file>images/QQ截图20191011224252.png</file>
+    <file>images/QQ截图20191011224126.png</file>
+    <file>images/1 (2).png</file>
+    <file>images/QQ截图20191011220153.png</file>
+    <file>images/mnbt.png</file>
+    <file>images/menubt.png</file>
+    <file>images/mnbt.png</file>
+    <file>images/QQ截图20191011202217.png</file>
+    <file>images/D8DB3E8B78C17FB27A719F02CFA84144.jpg</file>
+    <file>images/E9228FE3C623A0A7F60A961D6A4E1304.jpg</file>
+    <file>images/QQ图片20191010185621.jpg</file>
+    <file>images/QQ图片20191010185645.jpg</file>
+    <file>images/QQ图片20191010185657.jpg</file>
+  </qresource>
+</RCC>
