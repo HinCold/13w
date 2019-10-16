@@ -1,5 +1,8 @@
 # 13w
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
+
+
 UI部分：
 由于UI的exe太大无法上传，麻烦使用一下百度云连接获取。
 https://pan.baidu.com/s/1oTka6g80J2-0Ea04jZ2YQA
